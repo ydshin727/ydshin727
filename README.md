@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🤚🏻HelloWorld&fontColor=000000&fontSize=50"/>
 
-### 기능을 만드는 것을 넘어 서비스의 구조를 고민하는 개발자, **민예인**입니다.
+### 사용자 편의성과 시스템 효율을 중시하는, **가위손 민예인**입니다.
 
 🌱 새로운 기술을 배우고 프로젝트에 직접 적용하며 꾸준히 성장하는 중입니다!
 
